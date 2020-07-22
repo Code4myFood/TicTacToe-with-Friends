@@ -1,7 +1,7 @@
 # TicTacToe Game
 
-This program basically allows for the two players to play tictactoe to against each other through the TicTacToeServer
-
+<b>This program basically allows for the two players to play tictactoe to against each other through out the TicTacToeServer</b>
+<br></br>
 The players(2 clients) are allowed to enter their own name and submit, in order to connect their client to the server to ready the game. The game will start when two players are ready. The borad will keep on update until every each valid move made by the player until there is a winner or draw.
 The first player who connect to the server will assign with X
 
