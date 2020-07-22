@@ -5,7 +5,7 @@ import java.net.ServerSocket;
 
 /**
  * To build a server for the game 
- * @author Aaron Lee
+ * @author Code4Food
  *
  */
 public class TicTacToeServer{
