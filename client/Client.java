@@ -4,7 +4,7 @@ import javax.swing.SwingUtilities;
 
 /**
  * Connecting the game to the server
- * @author Aaron Lee
+ * @author Code4Food
  *
  */
 public class Client {
